@@ -1,8 +1,12 @@
 ---
-permalink: /about/
+# permalink: /about/
+permalink: / # theuma: define as landing page
+layout: single
 title: "Hi, I'm Mario!"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am passionate about deriving insights and advancing knowledge from data, automating workflows and software deployment to enhance efficiency, reduce costs, and elevate code quality. Eager to develop further in data analytics, machine learning model development and data visualization, while cultivating leadership and strategic planning skills within collaborative team environments.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With over a decade in the semiconductor industry a degree in Software Engineering and Management from Graz University of Technology and roles across software development, academic research, and data science, my career includes contributions in academia and industry, emphasizing initiative, meticulous documentation, and the clear communication of complex ideas.
+
+My current employer is [SkySpecs](https://www.skyspecs.com), a leading provider of drone-based wind turbine inspection services and data analytics, where I am responsible for developing and extending algorithms to address key challenges in the wind industry, such as loss of energy assessment, pitch misalignment, performance analysis and more, focusing on broad applicability and efficiency for large wind farm portfolios.

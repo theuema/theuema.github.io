@@ -78,6 +78,9 @@ footer:
       icon: "fas fa-fw fa-lock"
       url: "https://keys.openpgp.org/vks/v1/by-fingerprint/43F95D30A656BA79926A8EDEDBC6AD6A45A9F15A"
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:

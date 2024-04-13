@@ -6,4 +6,7 @@ main:
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
-    url: /about/
+    url: /
+    # url: /about/ # theuema: about.md/index.html defines about as landing page currently
+  - title: "Curriculum Vitae"
+    url: /cv/
