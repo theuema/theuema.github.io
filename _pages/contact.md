@@ -12,5 +12,6 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
   <input type="email" id="email" name="_replyto"><br>
   <label for="message">Message:</label>
   <textarea id="message" name="message" rows="10"></textarea><br>
+  <input type="hidden" name="_next" value="https://www.theuermann.dev/thank-you">
   <button type="submit">Send</button>
 </form>
