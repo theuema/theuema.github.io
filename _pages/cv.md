@@ -29,3 +29,15 @@ For a comprehensive overview of my professional roles and education, please visi
 
 - Automated Data Annotation for 6-DoF AI-Based Navigation Algorithm Development. [***Journal of Imaging*** **2021**, 7, 236.](https://doi.org/10.3390/jimaging7110236)
 - Protocol Design Issues for Object Density Estimation and Counting in Remote Sensing. [***IGARSS*** **2021**, pp. 2771-2774.](https://doi.org/10.1109/IGARSS47720.2021.9553934)
+
+<br>
+<br>
+
+# Education
+
+## Software Engineering and Management
+
+- ***Grade:*** Master's graduated with distinction
+- ***Major:*** Intelligent Systems
+- ***Minor:*** Management
+- ***Thesis:*** Embedded Image-based Localization For Assessment Of Critical Infrastructure
