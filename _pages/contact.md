@@ -20,11 +20,11 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
     <!-- Prevent SPAM Submission -->
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
     <!-- hCaptcha Spam Protection -->
-    <!-- <div class="h-captcha" data-captcha="true"></div> -->
+    <div class="h-captcha" data-captcha="true" required style="margin-bottom: 20px;"></div>
     <button type="submit">Submit Form</button>
 </form>
 <!-- Required for hCaptcha -->
-<!-- <script src="https://web3forms.com/client/script.js" async defer></script> -->
+<script src="https://web3forms.com/client/script.js" async defer></script>
 
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSVMwv9nGe3MFyg0FvoLLUkMewUf1SP4BDoSESqbRZWyBG1A/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

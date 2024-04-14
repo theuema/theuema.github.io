@@ -13,5 +13,3 @@ With over a decade in the semiconductor industry and years in diverse roles like
 <!-- With over a decade in the semiconductor industry, a degree in Software Engineering and Management from Graz University of Technology and roles across software development, academic research, and data science, my career includes contributions in academia and industry, emphasizing initiative, meticulous documentation, and the clear communication of complex ideas. -->
 
 My current employer is [SkySpecs](https://www.skyspecs.com), a leading provider of drone-based wind turbine inspection services and data analytics, where I am responsible for developing and extending algorithms utilizing SCADA data to address key challenges in the wind industry, such as loss of energy assessment, pitch misalignment, performance analysis and more, focusing on broad applicability and efficiency for large wind farm portfolios.
-
-For a comprehensive overview of my professional roles and education, please visit my [GitHub repository](https://github.com/theuema/Resume-CV), where I maintain an updated collection of my resume, CV, and cover letters.
