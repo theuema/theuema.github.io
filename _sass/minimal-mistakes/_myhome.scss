@@ -4,19 +4,23 @@
 
    .myhome-image {
     border-radius: 50%;
-    width: 20%; /* Adjust the percentage as needed */
+    width: 18%; /* Adjust the percentage as needed */
     display: block;
     margin: 0 auto; /* Center the image */
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
   
   .myhome-text {
     text-align: center;
     font-weight: bold; /* Makes text bold */
-    font-size: 2em; /* Larger text size for "Hi, I'm Mario!" */
+    font-size: 1.5em; /* Larger text size for "Hi, I'm Mario!" */
   }
   
   .myhome-sub-text {
-    font-size: 1.5em; /* Smaller than the main text */
+    font-size: 1em; /* Smaller than the main text */
     font-weight: normal; /* Regular font weight */
   }
 
