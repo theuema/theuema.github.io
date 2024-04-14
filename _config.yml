@@ -69,22 +69,26 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theuema"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/theuema/"
 
 footer:
   links:
     - label: "Email"
+      show_label: false
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mario@theuermann.dev"
     - label: "Encrypt Email"  
-      icon: "fas fa-fw fa-lock"
+      show_label: false
+      icon: "fas fa-fw fa-key"
       url: "https://keys.openpgp.org/vks/v1/by-fingerprint/43F95D30A656BA79926A8EDEDBC6AD6A45A9F15A"
     - label: "GitHub"
+      show_label: false
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theuema"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      show_label: false
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/theuema/"
 
 

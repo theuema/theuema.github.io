@@ -4,12 +4,22 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
+    <!-- theuema: -->
     {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
+      <ul>
+        {% for link in site.footer.links %}
+          {% if link.label and link.url %}
+            <li>
+              <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+                <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #171717;"></i>
+                {% if link.show_label %}
+                  {{ link.label }}
+                {% endif %}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     {% endif %}
 
     {% unless site.atom_feed.hide %}
@@ -18,4 +28,13 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<!-- theuema: -->
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br>
+  <span class="smaller-text"> 
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+    <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; 
+    <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>
+  </span>
+</div>
+
