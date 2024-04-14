@@ -1,8 +1,9 @@
 ---
-# permalink: /about/
-permalink: / # theuma: define as landing page
+permalink: /about/
 layout: single
-title: "Hi, I'm Mario!"
+title: "About Mario"
+author_profile: true
+hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---
 
 I am passionate about deriving insights and advancing knowledge from data, automating workflows and software deployment to enhance efficiency, reduce costs, and elevate code quality. Eager to develop further in data analytics, machine learning model development and data visualization, while cultivating leadership and strategic planning skills within collaborative team environments.
