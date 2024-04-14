@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mario Theuermann"
+  # name   : "Mario Theuermann"
   avatar : "/assets/images/bio-pic.jpg"
   bio    : "Engineering Professional with a passion for learning from data. Skilled in Bash, Python, C, C++, complemented by strong teamwork and interpersonal skills."
   links:
