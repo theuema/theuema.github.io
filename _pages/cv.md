@@ -40,5 +40,5 @@ For a comprehensive overview of my professional roles and education, visit my [G
 
 - ***Grade:*** Master's graduated with distinction
 - ***Major:*** Intelligent Systems
-- ***Minor:*** Management
+- ***Minor:*** Management and Strategy
 - ***Thesis:*** Embedded Image-based Localization For Assessment Of Critical Infrastructure
