@@ -16,9 +16,7 @@
 title: Mario Theuermann
 email: mario@theuermann.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Professional background and achievements of Mario Theuermann, featuring information on past roles in various industries, projects, and educational credentials.
 # twitter_username:
 github_username: theuema
 minimal_mistakes_skin: dreck #default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise

@@ -7,7 +7,8 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
 
 # Recent Roles
 
-For a comprehensive overview of my professional roles and education, please visit my [GitHub repository](https://github.com/theuema/Resume-CV), where I maintain an updated collection of my resume, CV, and cover letters.
+For a comprehensive overview of my professional roles and education, visit my [GitHub repository](https://github.com/theuema/Resume-CV) where I maintain updated versions of my resume, CV, and cover letter.
+
 ## Data Scientist at SkySpecs
 
 - Develop and extend algorithms to address key challenges in the wind industry, such as loss of energy assessment, pitch misalignment, performance analysis and more, focusing on broad applicability and efficiency for large wind farm portfolios.
