@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact"
+title: ""
 permalink: /contact/
 hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---

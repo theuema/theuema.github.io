@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Thank You!"
+title: ""
 permalink: /thank-you/
 hide_title: true
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "About Mario"
+title: ""
 author_profile: true
 hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---

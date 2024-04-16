@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---
