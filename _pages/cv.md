@@ -14,17 +14,14 @@ For a comprehensive overview of my professional roles and education, visit my [G
 - Develop and extend algorithms to address key challenges in the wind industry, such as loss of energy assessment, pitch misalignment, performance analysis and more, focusing on broad applicability and efficiency for large wind farm portfolios.
 - Work primarily with Python, Pandas, and Plotly to develop and maintain data processing pipelines and visualize time series data.
 - Use statistical and machine learning methods to analyze, classify, cluster and interpret SCADA (Supervisory Control and Data Acquisition) data of individual wind turbines, in order to identify and predict anomalies and performance issues.
-- Lead the transition of final prototypes to production, including big-scale testing and integration into the existing software infrastructure, for monthly execution across more than 3000 client wind turbines.
+- Lead the transition of final prototypes to production, including big-scale testing and integration into the existing software infrastructure, for monthly execution across more than 4000 client wind turbines.
 
 ## Research Assistant at Joanneum Research
 
-- Build computer vision applications with NVIDIA JetPack SDK
-- Data acquisition from a highly accurate infrared-based tracking system
-- Develop pose estimation from a drone camera's single imagery
-- Real-time one-stage object detection and tracking
-- Containerized development on embedded computing devices
-- Robot Operating System (ROS) for communication and more
-- Interim reports and presentations for the FFG
+- Engineer computer vision applications to enhance real-time object detection and pose estimation capabilities of a drone, using only imagery from its calibrated camera.
+- Construct a robust data acquisition pipeline from a highly accurate infrared-based tracking system, utilizing the Robot Operating System (ROS), to generate a suitable dataset for algorithm development and testing.
+- Configure containerized solutions for NVIDIA Jetson embedded computing devices.
+- Prepare and deliver detailed interim reports and presentations for the FFG (Austrian research funding agency), highlighting project progress, key findings, and strategic recommendations to ensure stakeholder alignment and continued project funding.
 
 ### Publications
 
