@@ -34,3 +34,7 @@ bundle exec jekyll serve
 ```
 
 Browse to http://localhost:4000
+
+# Based on MMistakes' Minimal Mistakes Jekyll Theme
+
+commit: 8a67ce8e41ec850f2d7c373aa47739b2abfee6f1
