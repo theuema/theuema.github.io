@@ -6,7 +6,7 @@ author_profile: true
 hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---
 
-I am passionate about deriving insights and advancing knowledge from data, automating workflows and software deployment to enhance efficiency, reduce costs, and elevate code quality. Eager to develop further in data analytics, machine learning model development and data visualization, while cultivating leadership and strategic planning skills within collaborative team environments.
+I am passionate about deriving insights and advancing knowledge from data, automating workflows and software deployment to enhance efficiency, reduce costs, and elevate code quality. Eager to develop further in data analytics, applying various machine learning models, and data visualization, while cultivating leadership and strategic planning skills within collaborative team environments.
 
 With over a decade in the semiconductor industry and years in diverse roles like software development, academic research, and data science, I bring a robust background complemented by a Master’s degree in Software Engineering and Management from Graz University of Technology. My career includes contributions in academia and industry, emphasizing initiative, meticulous documentation, and the clear communication of complex ideas.
 
