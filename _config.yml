@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Mario Theuermann"
   avatar : "/assets/images/bio-pic.jpg"
-  bio    : "Engineering Professional with a passion for building systems that integrate data and derive insights. Skilled in Python, C++, and Linux, with a strong focus on automating processes and enhancing efficiency."
+  bio    : "Engineering Professional with a passion for building systems that integrate data and derive insights. Skilled in Python, C, C++, and Linux, complemented by strong teamwork and interpersonal skills."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
