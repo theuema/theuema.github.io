@@ -11,7 +11,7 @@ For a comprehensive overview of my professional roles and education, visit my [G
 
 ## Data Scientist at [SkySpecs](https://www.skyspecs.com)
 
-- Develop and extend algorithms to address key challenges in the wind industry, such as loss of energy assessment, pitch misalignment, performance analysis and more, focusing on broad applicability and efficiency for large wind farm portfolios.
+- Develop and extend algorithms to address key challenges in the wind industry, such as the production loss assessment, pitch misalignment detection, performance analysis, and more, focusing on broad applicability and efficiency for large wind farm portfolios.
 - Work primarily in Python to conduct data manipulation, analysis, visualization, and interpretation of large-scale time-series data in combination with other data sources such as meteorological data, error, or maintenance logs.
 - Use statistical and machine learning methods to analyze, classify, cluster and interpret SCADA (Supervisory Control and Data Acquisition) data of individual wind turbines, in order to identify and predict anomalies and performance issues.
 - Lead the transition of final prototypes to production, including big-scale testing and integration into the existing software infrastructure, for monthly execution across more than 4000 client wind turbines.
