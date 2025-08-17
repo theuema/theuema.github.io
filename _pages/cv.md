@@ -14,6 +14,12 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
 - ***Minor:*** Management and Strategy
 - ***Thesis:*** Embedded Image-based Localization For Assessment Of Critical Infrastructure
 
+## Publications
+
+- Automated Data Annotation for 6-DoF AI-Based Navigation Algorithm Development. [***Journal of Imaging*** **2021**, 7, 236.](https://doi.org/10.3390/jimaging7110236)
+- Protocol Design Issues for Object Density Estimation and Counting in Remote Sensing. [***IGARSS*** **2021**, pp. 2771-2774.](https://doi.org/10.1109/IGARSS47720.2021.9553934)
+
+
 <br>
 <br>
 
@@ -21,10 +27,15 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
 
 For a comprehensive overview of my professional roles and education, visit my [GitHub repository](https://github.com/theuema/Resume-CV) where I maintain updated versions of my resume, CV, and cover letter.
 
+## Data Platform Engineer at [Red Bull](https://www.redbull.com) <sup><small><small>(since 04/2025)</small></small></sup>
+
+- Developing and maintaining data pipelines and platforms to support data-driven decision-making across the organization.
+- Collaborating with cross-functional teams to design and implement scalable data solutions.
+
 ## Innovation Engineer at [SkySpecs](https://www.skyspecs.com)
 
-- Developing a machine learning application to detect unusually high rotor blade imbalance in wind turbines by analyzing high-frequency time-series data. Leveraging predictive models such as Random Forest, Gradient Boosting, and Ridge Regression, incorporating feature engineering, and hyperparameter optimization to enhance prediction accuracy.
-- Building an LLM-based knowledge base, enabling clients to interact with their specific data analysis results. Currently evaluating low-code solutions, libraries like Langflow, and various vector storage and embedding technologies as part of a comprehensive RAG (Retrieval-Augmented Generation) pipeline.
+- Developed a machine learning application to detect unusually high rotor blade imbalance in wind turbines by analyzing high-frequency time-series data. Leveraging predictive models such as Random Forest, Gradient Boosting, and Ridge Regression, incorporating feature engineering, and hyperparameter optimization to enhance prediction accuracy.
+- Built a LLM-based knowledge base, enabling clients to interact with their specific data analysis results. Currently evaluating low-code solutions, libraries like Langflow, and various vector storage and embedding technologies as part of a comprehensive RAG (Retrieval-Augmented Generation) pipeline.
 - Engineered and deployed a FastAPI-driven Python microservice architecture that delivers RESTful APIs for custom data processing, analytics, and machine learning tasks.
 
 ## Data Scientist at [SkySpecs](https://www.skyspecs.com)
@@ -39,8 +50,3 @@ For a comprehensive overview of my professional roles and education, visit my [G
 - Constructed a robust data acquisition pipeline from a highly accurate infrared-based tracking system, utilizing the Robot Operating System (ROS), to generate a suitable dataset for algorithm development and testing.
 - Developed and deployed Docker-based containerized services optimized for NVIDIA Jetson embedded computing platforms.
 - Prepared and delivered detailed interim reports and presentations for the FFG (Austrian research funding agency), highlighting project progress, key findings, and strategic recommendations to ensure stakeholder alignment and continued project funding.
-
-### Publications
-
-- Automated Data Annotation for 6-DoF AI-Based Navigation Algorithm Development. [***Journal of Imaging*** **2021**, 7, 236.](https://doi.org/10.3390/jimaging7110236)
-- Protocol Design Issues for Object Density Estimation and Counting in Remote Sensing. [***IGARSS*** **2021**, pp. 2771-2774.](https://doi.org/10.1109/IGARSS47720.2021.9553934)

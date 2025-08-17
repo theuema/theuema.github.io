@@ -3,14 +3,17 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #f3f3f3 !default;
+$background-color: #f8f8f8 !default; /* #f3f3f3 !default; */
 $text-color: #343434 !default;
-$muted-text-color: #8e8b82 !default;
+$muted-text-color: #e3e3e3 !default;
+// $muted-text-color: #8e8b82 !default;
 $primary-color: #343434 !default;
-$border-color: #e9dcbe !default;
-$footer-background-color: #e9dcbe !default;
+$border-color: #ccc !default;
+// $border-color: #e9dcbe !default;
+$footer-background-color: #00162b !default;  /* #e9dcbe !default; */
+$link-color: #00162b !default;
+// $link-color: #004080 !default;
 // $link-color: #343434 !default;
-$link-color: #004080!default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;

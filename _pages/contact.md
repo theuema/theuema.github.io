@@ -5,7 +5,7 @@ permalink: /contact/
 hide_title: true # theuma: hide_title added to remove title from single.html layout
 ---
 
-<form action="https://api.web3forms.com/submit" method="POST">
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
     <input type="hidden" name="access_key" value="c93da368-c184-45e3-949f-04405d4db7b8">
     <input type="hidden" name="subject" value="New Submission on theuema.github.io">
     <!-- Redirect URL after form submit --> 
