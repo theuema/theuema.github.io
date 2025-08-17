@@ -27,7 +27,7 @@ hide_title: true # theuma: hide_title added to remove title from single.html lay
 
 For a comprehensive overview of my professional roles and education, visit my [GitHub repository](https://github.com/theuema/Resume-CV) where I maintain updated versions of my resume, CV, and cover letter.
 
-## Data Platform Engineer at [Red Bull](https://www.redbull.com) <sup><small><small>(since 04/2025)</small></small></sup>
+## Data Platform Engineer at [Red Bull](https://www.redbull.com) <br><small><small><small>(since 04/2025)</small></small></small>
 
 - Developing and maintaining data pipelines and platforms to support data-driven decision-making across the organization.
 - Collaborating with cross-functional teams to design and implement scalable data solutions.
